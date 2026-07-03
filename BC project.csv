@@ -1,0 +1,15 @@
+Date,Transaction_ID,Account_Type,Description,Category,Type,Amount,Balance
+01-Apr-26,TXN-9001,Checking,Salary Credit - TechCorp,Income,Credit,4500,8500
+02-Apr-26,TXN-9002,Checking,City Power & Light,Utilities,Debit,-125.5,8374.5
+04-Apr-26,TXN-9003,Credit Card,Whole Foods Market,Groceries,Debit,-210.25,8164.25
+05-Apr-26,TXN-9004,Savings,Auto-Transfer to Savings,Transfer,Debit,-500,7664.25
+06-Apr-26,TXN-9005,Checking,Shell Gas Station,Transport,Debit,-45,7619.25
+08-Apr-26,TXN-9006,Credit Card,Amazon Marketplace,Shopping,Debit,-89.99,7529.26
+12-Apr-26,TXN-9007,Checking,Parag Parikh Flexi Cap,Investment,Debit,-1000,6529.26
+15-Apr-26,TXN-9008,Checking,Groww App - SIP,Investment,Debit,-1500,5029.26
+18-Apr-26,TXN-9009,Checking,Freelance Client Payment,Income,Credit,850,5879.26
+20-Apr-26,TXN-9010,Credit Card,Netflix Subscription,Entertainment,Debit,-15.99,5863.27
+22-Apr-26,TXN-9011,Checking,Uber Rides,Transport,Debit,-24.5,5838.77
+25-Apr-26,TXN-9012,Credit Card,Starbucks,Dining,Debit,-12.45,5826.32
+28-Apr-26,TXN-9013,Checking,Monthly Rent Payment,Housing,Debit,-1200,4626.32
+30-Apr-26,TXN-9014,Savings,Interest Earned,Income,Credit,18.45,4644.77
